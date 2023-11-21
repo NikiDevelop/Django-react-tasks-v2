@@ -38,7 +38,7 @@ $ python manage.py runserver
 ```
 
 Puedes acceder mediante la siguiente url `http://127.0.0.1:8000/api/todos/` y crear una nueva tarea en formato JSON.
-Después de haber seguido los pasos anteriores ejecuta: 
+Después de haber seguido los pasos anteriores, ejecuta: 
 ```
 $ cd backend
 
@@ -49,7 +49,7 @@ $ python manage.py runserver
 
 ```
 Ya estaría corriendo el servidor por parte del back end, ahora vamos con la parte del front end.
-Abre otra terminal dandole al + y nos movemos a la carpeta del front end.
+Abre otra terminal dándole al + y nos movemos a la carpeta del front end.
 ```
 $ cd frontend
 
@@ -59,4 +59,4 @@ Ahora ejecutamos el servidor.
 $ npm run dev
 
 ```
-Y ya podrás crear nuevas tareas desde el frontend y que serán guardadas en el back end.
+Y ya podrás crear nuevas tareas desde el front end y que serán guardadas en el back end.
