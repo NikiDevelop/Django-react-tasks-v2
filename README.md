@@ -1,6 +1,6 @@
 # Django REST Framework y React
 
-Esto es una REST API de tareas usando `Django REST Framework` para el back end y `React` para el front end con bootstrap.
+Esto es una REST API de tareas usando `Django REST Framework` para el back end y `React` para el front end con `bootstrap`.
 
 
 ![Screenshot 2023-11-21 at 14-35-23 Todos Api – Django REST framework](https://github.com/NikiDevelop/Django-react-tasks-v2/assets/105102619/f6a87855-75cb-420d-96c9-81e28b25c007)
