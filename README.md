@@ -39,6 +39,7 @@ $ python manage.py runserver
 
 Puedes acceder mediante la siguiente url `http://127.0.0.1:8000/api/todos/` y crear una nueva tarea en formato JSON.
 Después de haber seguido los pasos anteriores, ejecuta: 
+
 ```
 $ cd backend
 
