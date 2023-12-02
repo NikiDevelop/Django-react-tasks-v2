@@ -11,7 +11,6 @@ Esto es una REST API de tareas usando `Django REST Framework` para el back end y
 # Ejecutar proyecto
 Primero, crear un entorno virtual:
 
-
 ```
 $ python -m venv env
 ```
